@@ -1,0 +1,96 @@
+#
+Pan Tadeusz
+Adam Mickiewicz
+1834
+2
+300
+#
+Lalka
+Boleslaw Prus
+1889
+3
+200
+#
+Krzyzacy
+Henryk Sienkiewicz
+1900
+1
+600
+#
+Dziady
+adam mickiewicz
+1832
+5
+500
+#
+Ferdydurke
+Witold Gombrowicz
+1937
+10
+100
+#
+Quo Vadis
+henryk sienkiewicz
+1896
+7
+150
+#
+W Pustyni i w Puszcz
+Henryk sienkiewicz
+1911
+8
+250
+#
+Kordian
+Juliusz Slowacki
+1834
+1
+0
+#
+Balladyna
+juliusz slowacki
+1839
+5
+350
+#
+Chlopi
+Wladyslaw Reymont
+1904
+9
+400
+#
+Jadro Ciemnosci
+Joseph Conrad
+1902
+9
+50
+#
+----------
+----------
+0
+0
+0
+#
+#3
+###
+3
+3
+0
+#
+3
+3#
+0
+0
+0
+#
+----------
+----------
+0
+0
+0
+#
+----------
+----------
+0
+0
+0
